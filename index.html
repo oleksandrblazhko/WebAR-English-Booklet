@@ -210,10 +210,8 @@
                                     // Тут ми зменшуємо її, щоб точно побачити її на сцені. Ви можете видалити цю шкалу, якщо потрібно
                                     // object.scale.set(0.01, 0.01, 0.01);
                                     // Ви можете самостійно змінити поворот або позицію моделі
-                                    object.position.set(0, 0, 1);
-                                    if (i === 1) {
-                                        object.rotation.set(0, Math.PI, Math.PI);
-                                    }
+                                    object.position.set(0, 0, 0);
+                                    //object.rotation.set(0, Math.PI, Math.PI);
                                     // Додавання нашої моделі до контейнера групи маркерів
                                     markerRoots[i].add(object);
                                     resolve(modelFiles[i])
