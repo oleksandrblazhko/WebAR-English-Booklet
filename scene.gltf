@@ -3,266 +3,166 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 1683,
+      "count": 2410,
       "max": [
-        1.6907000541687012,
-        4.799310207366943,
-        4.006050109863281
+        2.6509621143341064,
+        4.925033092498779,
+        7.91680908203125
       ],
       "min": [
-        -1.6907000541687012,
-        -4.748010158538818,
-        -4.733920097351074
+        -2.6509621143341064,
+        -1.9282439947128296,
+        0.004672999959439039
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 20196,
+      "byteOffset": 28920,
       "componentType": 5126,
-      "count": 1683,
+      "count": 2410,
       "max": [
-        0.9983400702476501,
-        0.9990336894989014,
-        0.9999890923500061
+        0.9995944499969482,
+        0.9999023675918579,
+        0.9992709755897522
       ],
       "min": [
-        -0.9996199011802673,
-        -0.9999973177909851,
-        -0.9999995827674866
+        -0.9995944499969482,
+        -0.999983012676239,
+        -0.9995582103729248
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 1,
+      "bufferView": 3,
       "componentType": 5126,
-      "count": 1683,
+      "count": 2410,
       "max": [
-        0.9960799813270569,
-        0.9968600273132324
+        0.9995435476303101,
+        0.9995162487030029,
+        0.9999693632125854,
+        1.0
       ],
       "min": [
-        0.0031799999997019768,
-        0.0031399999279528856
+        -0.9995435476303101,
+        -0.9995129108428955,
+        -0.9999829530715942,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2410,
+      "max": [
+        0.9927510023117065,
+        0.985945999622345
+      ],
+      "min": [
+        0.014938999898731709,
+        0.004126999992877245
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 5340,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 40392,
-      "componentType": 5126,
-      "count": 63,
-      "max": [
-        0.6876199841499329,
-        0.6780800223350525,
-        0.3797599971294403
-      ],
-      "min": [
-        -0.6876199841499329,
-        -1.3219200372695923,
-        -0.012280000373721123
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 41148,
-      "componentType": 5126,
-      "count": 63,
-      "max": [
-        0.12708283960819244,
-        0.9489539861679077,
-        0.9992128610610962
-      ],
-      "min": [
-        -0.12708283960819244,
-        -0.18061086535453796,
-        0.3154146373271942
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 13464,
-      "componentType": 5126,
-      "count": 63,
-      "max": [
-        0.11403000354766846,
-        0.2859100103378296
-      ],
-      "min": [
-        0.010970000177621841,
-        0.1828400045633316
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 21360,
-      "componentType": 5125,
-      "count": 252,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 41904,
-      "componentType": 5126,
-      "count": 32,
-      "max": [
-        0.9638400077819824,
-        0.9638400077819824,
-        1.0
-      ],
-      "min": [
-        -0.9638400077819824,
-        -0.9638400077819824,
-        1.0
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 42288,
-      "componentType": 5126,
-      "count": 32,
-      "max": [
-        0.0,
-        0.0,
-        1.0
-      ],
-      "min": [
-        0.0,
-        0.0,
-        1.0
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 22368,
-      "componentType": 5125,
-      "count": 90,
+      "count": 11340,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "Joe McDowall (https://sketchfab.com/joboto)",
+      "author": "Ida Faber (https://sketchfab.com/Ida..Faber)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/low-poly-doggy-1c8c763518ab4751bfcddf0b6a34011a",
-      "title": "Low poly doggy"
+      "source": "https://sketchfab.com/3d-models/pbr-low-poly-fox-character-88ed6191446749b9a9e24b995bcb5e1d",
+      "title": "PBR Low-poly Fox Character"
     },
-    "generator": "Sketchfab-12.68.0",
+    "generator": "Sketchfab-12.66.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 22728,
+      "byteLength": 45360,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 13968,
-      "byteOffset": 22728,
+      "byteLength": 19280,
+      "byteOffset": 45360,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 42672,
-      "byteOffset": 36696,
+      "byteLength": 57840,
+      "byteOffset": 64640,
       "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38560,
+      "byteOffset": 122480,
+      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 79368,
+      "byteLength": 161040,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Shiba-inu_baseColor.png"
+      "uri": "textures/initialShadingGroup_baseColor.png"
+    },
+    {
+      "uri": "textures/initialShadingGroup_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/initialShadingGroup_normal.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "inner",
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.15692067380131292,
-          0.2306370769536059,
-          0.029023665622229355,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.6
-      }
-    },
-    {
-      "doubleSided": true,
-      "name": "Shiba-inu",
+      "name": "initialShadingGroup",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.6
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
       }
     }
   ],
   "meshes": [
     {
-      "name": "Cylinder.001_0",
+      "name": "Object_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TEXCOORD_0": 2
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
           },
-          "indices": 3,
-          "material": 1,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Plane_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 5,
-            "POSITION": 4,
-            "TEXCOORD_0": 6
-          },
-          "indices": 7,
-          "material": 1,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Cylinder_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 9,
-            "POSITION": 8
-          },
-          "indices": 10,
+          "indices": 4,
           "material": 0,
           "mode": 4
         }
@@ -296,151 +196,13 @@
     },
     {
       "children": [
-        2,
-        4,
-        6,
-        8,
-        10
+        2
       ],
-      "name": "Root"
-    },
-    {
-      "children": [
-        3
-      ],
-      "matrix": [
-        1.0,
-        -0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.8720700000000001,
-        4.72868,
-        1.0
-      ],
-      "name": "Cylinder.001"
+      "name": "0c7632b891954c61a36a10c82efa0cf3.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": "Cylinder.001_0"
-    },
-    {
-      "children": [
-        5
-      ],
-      "matrix": [
-        0.27137000000000006,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.6589700000000002,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.6589700000000002,
-        0.0,
-        -0.003200000000000001,
-        5.1758299999999995,
-        6.644969999999999,
-        1.0
-      ],
-      "name": "Plane"
-    },
-    {
-      "mesh": 1,
-      "name": "Plane_0"
-    },
-    {
-      "children": [
-        7
-      ],
-      "matrix": [
-        13.44366,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        13.44366,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.57113,
-        0.0,
-        0.0,
-        0.0,
-        -0.57149,
-        1.0
-      ],
-      "name": "Cylinder"
-    },
-    {
-      "mesh": 2,
-      "name": "Cylinder_0"
-    },
-    {
-      "children": [
-        9
-      ],
-      "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        -8.12974,
-        -1.9233899999999997,
-        12.92391,
-        1.0
-      ],
-      "name": "Point"
-    },
-    {
-      "name": "Point"
-    },
-    {
-      "children": [
-        11
-      ],
-      "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        17.876260000000002,
-        -8.44153,
-        5.254989999999999,
-        1.0
-      ],
-      "name": "Point.001"
-    },
-    {
-      "name": "Point.001"
+      "name": "Object_2"
     }
   ],
   "samplers": [
@@ -464,6 +226,14 @@
     {
       "sampler": 0,
       "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
     }
   ]
 }
